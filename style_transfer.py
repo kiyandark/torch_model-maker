@@ -1,13 +1,7 @@
-import os.path
 import argparse
 import imutils
 import time
 import cv2
-import json
-from flask import Flask,request,Response
-import uuid
-import numpy as np
-import base64
 
 # construct the argument parser and parse the arguments
     #ap = argparse.ArgumentParser()
